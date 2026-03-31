@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Windows|macOS](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey.svg)]()
 
-一个 AI Agent Skill，用于深度分析微信聊天记录，生成互动习惯报告、情感走势、性格画像，并支持追问细节。
+一个 AI Agent Skill，能自动解密提取与特定用户的聊天记录，用于深度分析，并可生成互动习惯报告、情感走势、性格画像等，并支持追问细节。
 
 本项目数据库解密功能参考自 [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) 项目。
 
