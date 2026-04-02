@@ -38,7 +38,7 @@
 # 1. 克隆仓库
 git clone https://github.com/UniUni2000/wechat-chat-analyzer.git
 
-# 2. 复制到 skills 目录（以 Trae 为例）
+# 2. 复制到 skills 目录（以 qwen 为例）
 cp -r wechat-chat-analyzer/wechat-chat-analyzer ~/.qwen/skills/
 
 # 3. 安装依赖
